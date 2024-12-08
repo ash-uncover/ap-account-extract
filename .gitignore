@@ -1,0 +1,16 @@
+
+# NPM files
+npm-debug.log
+
+# Ignore node modules
+dist
+node_modules
+config.json
+
+# test coverage info
+test/__coverage__
+*.flac
+data/
+files/
+public/data.csv
+public/data2.csv

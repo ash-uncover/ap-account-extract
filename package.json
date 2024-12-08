@@ -1,0 +1,11 @@
+{
+  "name": "@uncover/account-extract",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "extract": "node ./src/extract.js"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^4.9.155"
+  }
+}
